@@ -6,6 +6,9 @@ Warning: This keyboard has an extremely weird layout.
 
 ----
 
+![ariesu render](https://github.com/b1nc/ariesu/blob/main/Renders%20and%20pictures/ariesu.png)
+![ariesu pcb](https://github.com/b1nc/ariesu/blob/main/Renders%20and%20pictures/pcblayer.png)
+
 The prototypes are in perfectly working condition.
 
 There will not be a group-buy, however, all the PCB and case files are open-source
